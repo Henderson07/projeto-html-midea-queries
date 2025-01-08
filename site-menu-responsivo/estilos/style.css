@@ -20,7 +20,6 @@ header > h1 {
     text-align: center;
 }
 
-<<<<<<< HEAD
 i#burguer {
     background-color: rgb(48, 48, 48);
     color: white;
@@ -37,10 +36,6 @@ i#burguer:hover {
 
 menu {
     display: none;
-=======
-menu {
-    display: block;
->>>>>>> c42ca44c232db7ad60222f3fe41cf6bb5a104300
 }
 
 menu > ul {
